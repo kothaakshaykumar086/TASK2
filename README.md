@@ -1,4 +1,6 @@
 # Sales Performance Dashboard (Power BI)
+![dashboard1](screenshots/dashboard1.png)
+![dashboard1](screenshots/dashboard2.png)
 
 ## Project Overview
 This project analyzes sales performance using Power BI. The dashboard helps business users understand sales trends, customer performance, regional sales, and category-wise performance.
